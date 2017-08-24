@@ -2,7 +2,7 @@
 
 Hi JM,
 
-Click on the badge up there that says Binder to go to an interactive notebook.
+Click on the badge up there that says launch Binder to go to an interactive notebook.
 
 love you,
 
